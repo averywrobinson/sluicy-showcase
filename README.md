@@ -6,7 +6,7 @@ A static, read-only project showcase with real prototype screenshots, a four-vie
 
 ## Status
 
-Public showcase approved by the owner. Deployment status is available in this repository’s GitHub Pages settings. Latest validated app shown: 0.11.0, Stage 11. Stage 12 local AI is in development and has not passed native qualification.
+Public showcase approved by the owner. Deployment status is available in this repository’s GitHub Pages settings. Latest validated app: 0.12.0 build 8, Stage 12. The four-view gallery retains Stage 11 captures; the additional local-AI screenshot is from Stage 12. Five bounded model calls and native cancel/approval/restore passed in the disposable VM. This does not establish general organization reliability.
 
 ## Content and privacy
 
